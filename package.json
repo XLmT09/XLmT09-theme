@@ -1,7 +1,7 @@
 {
-  "name": "hiji-theme",
-  "displayName": "Hiji Theme",
-  "description": "A theme Hiji likes.",
+  "name": "XLmT09-theme",
+  "displayName": "XLmT09 Theme",
+  "description": "A theme XLmT09 likes.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hiji Theme",
+        "label": "XLmT09 Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Hiji Theme-color-theme.json"
+        "path": "./themes/XLmT09 Theme-color-theme.json"
       }
     ]
   }
