@@ -1,5 +1,5 @@
 {
-	"name": "Hiji's Theme",
+	"name": "Hiji Theme",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -1895,7 +1895,6 @@
 	  "titleBar.border": "#03b417",
 	  "menubar.selectionForeground": "#cccccc",
 	  "menubar.selectionBackground": "#03b41793",
-	  "menubar.selectionBorder": "#ff3a3a",
 	  "menu.foreground": "#ffffff",
 	  "menu.background": "#000000",
 	  "menu.selectionForeground": "#ffffff",
