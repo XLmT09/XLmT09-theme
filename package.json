@@ -1,7 +1,7 @@
 {
   "name": "XLmT09-theme",
   "displayName": "XLmT09 Theme",
-  "description": "A theme XLmT09 likes.",
+  "description": "A black and green VS Code theme with neon syntax colours.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
