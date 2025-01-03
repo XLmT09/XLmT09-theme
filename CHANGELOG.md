@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "XLmT09-s-theme" extension will be documented in this file.
+All notable changes to the "XLmT09-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0] - 03/01/2023
 
 - Initial release
