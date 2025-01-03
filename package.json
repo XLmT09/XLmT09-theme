@@ -4,6 +4,7 @@
   "description": "A black and green VS Code theme with neon syntax colours.",
   "version": "0.0.1",
   "publisher": "Hiji",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.96.0"
   },
