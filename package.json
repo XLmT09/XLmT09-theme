@@ -2,7 +2,7 @@
   "name": "XLmT09-theme",
   "displayName": "XLmT09 Theme",
   "description": "A black and green VS Code theme with neon syntax colours.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "Hiji",
   "icon": "logo.png",
   "engines": {

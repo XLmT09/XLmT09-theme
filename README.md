@@ -1,4 +1,7 @@
 # XLmT09 Theme
+![Version](https://img.shields.io/badge/version-1.0.1-blue)
+
+
 A sleek black and green VS Code theme with vibrant neon syntax colours for the editor.
 
 ![theme image](theme.png)
